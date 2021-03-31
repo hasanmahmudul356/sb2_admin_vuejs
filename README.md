@@ -1,4 +1,4 @@
-# fpontend2
+# Bootstrap4 Admin Templete With vue JS
 
 ## Project setup
 ```
